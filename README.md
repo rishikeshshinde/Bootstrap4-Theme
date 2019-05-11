@@ -20,3 +20,10 @@ The whole design is Responsive.
 <img src="screenshots/Screenshot (61).png">
 <img src="screenshots/Screenshot (62).png">
 <img src="screenshots/Screenshot (63).png">
+<img src="responsive_ss/Screenshot (66).png">
+<img src="responsive_ss/Screenshot (67).png">
+<img src="responsive_ss/Screenshot (68).png">
+<img src="responsive_ss/Screenshot (69).png">
+<img src="responsive_ss/Screenshot (70).png">
+<img src="responsive_ss/Screenshot (71).png">
+<img src="responsive_ss/Screenshot (72).png">
