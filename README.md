@@ -1,5 +1,6 @@
 # Bootstrap4-Theme
-Bootstrap 4 Theme is a multipage theme created using bootstrap 4 and is a template_like web design.
+Bootstrap 4 Theme is a multipage responsive theme created using bootstrap 4 and is a template_like web design.
+The whole design is Responsive.
 
 <img src="screenshots/Screenshot (46).png">
 <img src="screenshots/Screenshot (47).png">
